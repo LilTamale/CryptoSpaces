@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Hi, this project was made to showcase current Crypto prices using CoinGecko API, React JS, and Tailwind CSS. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
